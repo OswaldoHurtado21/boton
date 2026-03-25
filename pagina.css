@@ -1,0 +1,20 @@
+.boton{
+    position: fixed;
+    top: 45%;
+    left: 45%;
+    block-size: 8%;
+    background-color: pink;
+    border-radius: 20px;
+    cursor: pointer;
+    font-style:oblique;
+    letter-spacing: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style:dashed;
+    border-width: 4px;
+    border-color:darkblue;
+
+}
+body {
+    background-color: white;
+    
+}
